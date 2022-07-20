@@ -5,7 +5,7 @@ User Authentication With Mean Stack, JWT and Passport.js.
 # Application Guide
 
 **1.** Go to My [User Authentication](https://user-auth-b4438.web.app/) Website
-<br />Enter register information and click Register. Email Verification will be sent to your email.
+<br />
 
 **2.** Enter register information and click Register. Email Verification will be sent to your email.
 ![](readmeimages/readmeimage1.png)
