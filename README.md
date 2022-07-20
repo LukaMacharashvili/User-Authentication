@@ -1,4 +1,4 @@
-# Trello
+# User Authentication
 
 User Authentication With Mean Stack, JWT and Passport.js.
 
